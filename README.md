@@ -3,7 +3,7 @@
 # Hack to hire !
 
 ## Play start for the demonstration
-<video controls="" width="1280" height="720" autoplay="autoplay" name="media"><source src="https://ww2.eudonet.com/XRM/at?tok=0A7444D5&amp;cs=wjJhQNTL6fIVSSnSLcuC7o4IIopowRQrDHYON3RL9IZWp7UQyQDdFkojoT1ArDo8&amp;p=7HihDz4DiLy7T7duQQaszMM_Gq7YI6t17LNu5-lSFOO1_GaNZ91qXGA8cIZAh_IdO6AtepQy-4w%3d" type="video/mp4"></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J1SPDDIXlzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Test yourself !
