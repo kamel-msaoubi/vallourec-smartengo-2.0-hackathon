@@ -3,7 +3,7 @@
 # Hack to hire !
 
 ## Play start for the demonstration
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J1SPDDIXlzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Click to see video on youtube](https://img.youtube.com/vi/J1SPDDIXlzo/0.jpg)](https://www.youtube.com/watch?v=J1SPDDIXlzo)
 
 
 ## Test yourself !
