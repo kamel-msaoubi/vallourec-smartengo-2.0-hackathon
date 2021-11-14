@@ -28,7 +28,7 @@
 ## Tests accounts:
 #### Feel no good to register ? Uses this identifiers:
 == ADMIN ==
-Username: admin
+Username: kamel
 Password: smartengo
 
 
