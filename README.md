@@ -2,7 +2,7 @@
 
 # Hack to hire !
 
-## Play start for the demonstration
+## Click on the image below for the demonstration
 [![Click to see video on youtube](https://img.youtube.com/vi/J1SPDDIXlzo/0.jpg)](https://www.youtube.com/watch?v=J1SPDDIXlzo)
 
 
